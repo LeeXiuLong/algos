@@ -56,4 +56,4 @@ def linkedListSum2(linkedListOne, linkedListTwo)
         currentTwo = currentTwo.next ? currentTwo.next : nil
     end
 end
-#another comment
+#another comment and another one
