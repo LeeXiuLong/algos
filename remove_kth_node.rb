@@ -16,4 +16,4 @@ def remove_kth_node(head, k)
     end
     firstPointer.next = firstPointer.next.next
 
-    #more stuff and again
+    #more stuff and again and again
