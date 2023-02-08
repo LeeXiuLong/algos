@@ -6,5 +6,14 @@ def dfs(self,arr)
     end
     arr
 end
-#hello another buildanother oneasdf some moreasdfasdf
+#hello another buildanother oneasdf some 
 #here is some more code some more asdfasdfasdfasdf
+
+
+input_array = [...]
+input_array.each do |header|
+    case header
+    when "title"
+        header=
+    end
+end
