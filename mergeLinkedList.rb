@@ -34,4 +34,3 @@ def findCommonNode(node, dict)
     end
     return nil
 end
-#asdfacvcxzaasdfasdf
