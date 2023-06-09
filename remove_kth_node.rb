@@ -8,7 +8,7 @@ def remove_kth_node(head, k)
     end
     if !secondPointer
         head.value = head.next.value
-        head.next = head.next.next
+        head.next = 1
         return
 #asdfaasdfasdfb
 
